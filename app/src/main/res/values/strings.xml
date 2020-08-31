@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternalExternalStorage</string>
+    <string name="et_login">Login</string>
+    <string name="et_password">Password</string>
+    <string name="btn_text_login">Login</string>
+    <string name="btn_text_registration">Registration</string>
+    <string name="txt_chbox">Хранить во внешнем хранилище</string>
+</resources>
